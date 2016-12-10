@@ -1,0 +1,1 @@
+This is Fuckcoding's first git project
